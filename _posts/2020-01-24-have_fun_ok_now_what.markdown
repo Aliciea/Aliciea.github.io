@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Have Fun, ok, now what? "
-date:       2020-01-24 14:15:33 +0000
+date:       2020-01-24 09:15:34 -0500
 permalink:  have_fun_ok_now_what
 ---
 
